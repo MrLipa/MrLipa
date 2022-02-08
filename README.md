@@ -1,18 +1,5 @@
-### Hi there
-I' m Tomek 
-currently i'm student of Applied Computer Science on AGH University of Science and Technology!!
-
-<!--
-**MrLipa/MrLipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there I' m Tomek 
+Currently I'm student of Applied Computer Science on AGH University of Science and Technology!!
+🌱 I’m currently learning Java Python,Cpp mostly
+👯 I’m looking to collaborate on interesting people and create together something interesting together
+📫 How to reach me: https://www.linkedin.com/in/tomasz-szkaradek/
